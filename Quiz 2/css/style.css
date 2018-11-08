@@ -1,0 +1,8 @@
+#main {
+    /* add CSS here */
+}
+.pet {
+    border: solid;
+	border-raduis =12px;
+	box-shadow : 5px 10px #fa0139;
+}
